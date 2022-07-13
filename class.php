@@ -43,20 +43,10 @@ class Movie{
   }
 };
 
-// creo un metodo
-
 
 $movie1 = new Movie("I am a lengend" , "Post-apocalyptic", 2007 , "1h 41m" );
 $movie2 = new Movie("Shooter" , "Action" , 2007 , "2h 6m" );
-$movie3 = new Movie("incerption" , "Fantasy",  2010 , "2h 28m" );
-
-// echo $movie1->getTitle() . " ";
-// echo $movie1->getGenre() . " ";
-// echo $movie1->getDuration() . " ";
-// echo $movie1->getReleaseData()
-
-
-
+$movie3 = new Movie("Incerption" , "Fantasy",  2010 , "2h 28m" );
 
 
 ?>

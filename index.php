@@ -10,9 +10,7 @@ echo "<h4> " ."Release Data = ". $_movie->getReleaseData() . "</h4>";
 
 
 }
-// printCard($movie1);
-// printCard($movie2);
-// printCard($movie3);
+
 
 ?>
 <!DOCTYPE html>
